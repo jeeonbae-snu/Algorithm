@@ -1,6 +1,6 @@
 # [Silver IV] 스택 2 (BOJ 28278)
 # 분류: 자료 구조, 스택
-# 접근: 큐/스택으로 그래프(또는 격자)를 순회하며 조건 검사
+# 접근: 리스트로 스택을 구현해 push/pop/size/empty/top 다섯 명령을 O(1)에 처리
 
 import sys
 input = sys.stdin.readline
