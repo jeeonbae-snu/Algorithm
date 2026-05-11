@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+
+# IDE / 에디터
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 작업/임시 파일
+*.tmp
+*.bak
+*.log
+
+# Java 빌드
+*.class
+*.jar
+target/
+out/
+
+# C/C++ 빌드
+*.exe
+*.o
+*.obj
+a.out
